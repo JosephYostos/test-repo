@@ -4,7 +4,7 @@ kind: GlobalAlert
 metadata:
   name: waf-new-alert-rule-info
 spec:
-  summary: "WAF new waf-alert-942100"
+  summary: "WAF new waf-alert-1005"
   description: "Test WAF Global Alert"
   severity: 1
   dataSet: waf
