@@ -59,4 +59,3 @@ spec:
           - "9555"
   types:
     - Egress
-    - Ingress
