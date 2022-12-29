@@ -7,7 +7,6 @@ spec:
   tier: app-hipstershop
   order: 1100
   selector: app == "frontend"
-  ingress:
   egress:
     - action: Allow
       protocol: TCP
