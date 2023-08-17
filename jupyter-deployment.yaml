@@ -31,6 +31,8 @@ spec:
           name: web
           ports:
             - containerPort: 8888
+          securityContext:
+            privileged: true
           resources: {}
       restartPolicy: Always
 status: {}
